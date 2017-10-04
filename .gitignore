@@ -4,3 +4,4 @@ format
 target
 .classpath
 .project
+.gitignore
