@@ -10,6 +10,8 @@ public class basePage {
 	public basePage(WebDriver driver){		
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
+		//adding testing
+		//conflict testing
 		// Testing Merge Conflicts
 		// Page Factory
 		// Pade Object Model
