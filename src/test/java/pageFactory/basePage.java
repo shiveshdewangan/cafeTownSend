@@ -12,6 +12,10 @@ public class basePage {
 		PageFactory.initElements(driver, this);
 		//adding testing
 		//conflict testing
+		// Testing Merge Conflicts
+		// Page Factory
+		// Pade Object Model
+		//Maven
 	}
 	
 }

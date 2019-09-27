@@ -137,6 +137,8 @@
         </RuleState>
       </list>
     </option>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
