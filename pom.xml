@@ -7,7 +7,7 @@
   <properties>
     <cucumber-jvm.version>1.1.2</cucumber-jvm.version>
     <selenium.version>2.42.2</selenium.version>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
   </properties>
 
    <build>
